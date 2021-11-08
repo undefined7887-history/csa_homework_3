@@ -71,7 +71,7 @@ def run_random(args):
     container = Container()
 
     # Input
-    container.input_random(args[2])
+    container.input_random(int(args[2]))
 
     # Output (unsorted)
     container.output(open_file_write(args[3]))

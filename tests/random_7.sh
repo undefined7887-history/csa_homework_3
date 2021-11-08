@@ -1,0 +1,1 @@
+python3 ../src/main.py -n 10000 output/random_7_output_1.txt output/random_7_output_2.txt
